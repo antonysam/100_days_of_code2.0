@@ -26,3 +26,5 @@
 13. [Given three integers, print the least of them.](Day013.md)
 
 14. [Write a program that receives a number on the input.If the number is a multiple of 3, it prints "Jugs". Otherwise, it prints the number.](Day014.md)
+
+15. [Write a program that receives a number on the input.which prints jugs,mugs,pugs and with combination of two and three](Day015.md)
