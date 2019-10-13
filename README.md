@@ -44,3 +44,6 @@ Otherwise, it prints the number.](Day017.md)
 21. [Spy plane](Day022.md)
 
 22. [Strings: Slices](Day023.md)
+
+23. [Given a string in which the letter h occurs at least twice. Remove from that string the first and the last occurrence of the letter  h, as well as all the characters between them.](Day024.md)
+
