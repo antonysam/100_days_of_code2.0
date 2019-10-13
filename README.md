@@ -42,3 +42,5 @@ Otherwise, it prints the number.](Day017.md)
 20. [Write a program that receives a number on the input.If the number is a multiple of 3, or it contains digit 3, it prints "Jugs". If the number is a multiple of 5, or it contains digit 5, it prints "Mugs".If the number is a multiple of 7, or it contains digit 7, it prints "Pugs".     VERSION===U](Day020.md)
 
 21. [Spy plane](Day022.md)
+
+22. [Strings: Slices](Day023.md)
